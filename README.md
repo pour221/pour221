@@ -1,16 +1,15 @@
-## Hi there 👋
+## 🧬 Bio Projects
 
-<!--
-**pour221/pour221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projects related to bioinformatics, data analysis and scientific work.
 
-Here are some ideas to get you started:
+### [trann](https://github.com/pour221/trann)
+A small script with a console interface for adding labels to the leaves of phylogenetic trees in the newick format.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Pet Projects
+
+Personal projects not directly related to bioinformatics.
+Mostly engineering, automation and experimentation.
+
+### [Recipe Book Telegram Bot](https://github.com/pour221/RecipeBookBot)
+Telegram bot for storing recipes
+
