@@ -8,7 +8,7 @@ A small script with a console interface for adding labels to the leaves of phylo
 ### [ms-qc-notebook](https://github.com/pour221/ms-qc-notebook)
 Jupyter notebook for base quality control of mass spectrometry data.
 
-### [codon_usage](https://github.com/pour221/codon_usage)
+### [Codon Usage Analysis](https://github.com/pour221/codon_usage)
 Comparative analysis of codon usage bias across microbial genomes using RSCU, ENC, PCA/PCoA and Mash distances.
 
 ## 🛠 Pet Projects
