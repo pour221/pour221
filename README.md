@@ -5,6 +5,9 @@ Projects related to bioinformatics, data analysis and scientific work.
 ### [trann](https://github.com/pour221/trann)
 A small script with a console interface for adding labels to the leaves of phylogenetic trees in the newick format.
 
+### [samplaction](https://github.com/pour221/samplaction)
+CLI tool for selecting a more homogeneous subset of genome assemblies
+
 ### [ms-qc-notebook](https://github.com/pour221/ms-qc-notebook)
 Jupyter notebook for base quality control of mass spectrometry data.
 
